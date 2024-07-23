@@ -71,7 +71,7 @@ cd ImageFilterExperiments
 3. Open the Jupyter notebook:
 
 ```bash
-jupyter notebook main.ipynb
+jupyter notebook ImageFilterExperiments.ipynb
 ```
 
 4. Run the notebook cells to convert BMP images to JPG, apply filters, evaluate them using MSE, and save the results.
