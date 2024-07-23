@@ -78,7 +78,7 @@ jupyter notebook main.ipynb
 
 ## Example Results
 
-![Example Subplot](PlotImg\kiel_subplot.jpg)
+![Example Subplot](https://github.com/lvimuth/ImageFilterExperiments/blob/main/PlotImg/houses_subplot.jpg)
 
 The example above shows the original image and various filtered images with their corresponding MSE values.
 
