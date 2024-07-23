@@ -59,13 +59,13 @@ pip install opencv-python numpy matplotlib
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/image-filtering-evaluation-mse.git
+git clone https://github.com/lvimuth/ImageFilterExperiments.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd image-filtering-evaluation-mse
+cd ImageFilterExperiments
 ```
 
 3. Open the Jupyter notebook:
